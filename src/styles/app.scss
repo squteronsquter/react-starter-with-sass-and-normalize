@@ -1,0 +1,7 @@
+// all styles will be imported in the correct order
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&display=swap&subset=latin-ext');
+
+@import './base/variables';
+@import './base/base';
+@import './components/heading';
